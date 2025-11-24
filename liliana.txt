@@ -1,8 +1,207 @@
-PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncoro-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_todo.py" PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncoore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_tod.PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythpytore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - serverPS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\prvting for connection...
-PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 
-- server_todo.py"
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_todo.py"ython.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_todo.py"
+
 Waiting for connection...
-Connected to ('127.0.0.1', 58618)
-Received command: 2-     
-Logging:
+Connected to ('127.0.0.1', 59209)
+Received command: 1-Teste,Desc1
+Logging: Todo added.
+Waiting for connection...      
+
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py" python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py"
+
+** Todo List Menu **
+1. Add todo        
+2. Print todos     
+3. Complete todo   
+10. Exit
+
+Enter your choice: 1
+Enter todo title: Teste
+Enter todo description: Desc1
+Connected to server.
+Connection close.   
+Todo added.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+Enter your choice:
+
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_todo.py"ython.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_todo.py"
+
 Waiting for connection...
+Connected to ('127.0.0.1', 59209)
+Received command: 1-Teste,Desc1
+Logging: Todo added.
+Waiting for connection...      
+Connected to ('127.0.0.1', 59226)
+Received command: 3-0    
+Logging: Todo completed. 
+Waiting for connection...
+
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py" python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py"
+
+** Todo List Menu **
+1. Add todo        
+2. Print todos     
+3. Complete todo   
+10. Exit
+
+Enter your choice: 1
+Enter todo title: Teste
+Enter todo description: Desc1
+Connected to server.
+Connection close.
+
+Todo added.
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+
+Enter your choice: 3
+Complete todo
+Enter index: 0
+Connected to server.
+Connection close.
+Todo completed.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+Enter your choice:
+
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py" python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py"
+
+** Todo List Menu **
+1. Add todo        
+2. Print todos     
+3. Complete todo   
+10. Exit
+
+Enter your choice: 1
+Enter todo title: Teste
+Enter todo description: Desc1
+Connected to server.
+Connection close.   
+Todo added.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+
+Enter your choice: 3
+Complete todo
+Enter index: 0
+Connected to server.
+Connection close.
+Todo completed.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+
+Enter your choice: 10
+
+PS C:\Temp\CACADAMY> 
+
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_todo.py"ython.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - server_todo.py"
+
+Waiting for connection...
+Connected to ('127.0.0.1', 59209)
+Received command: 1-Teste,Desc1
+Logging: Todo added.
+Waiting for connection...      
+Connected to ('127.0.0.1', 59226)
+Received command: 3-0    
+Logging: Todo completed. 
+Waiting for connection...
+Connected to ('127.0.0.1', 59307)
+Received command: 1-Teste2,wewew
+Logging: Todo added.
+Waiting for connection...
+Connected to ('127.0.0.1', 59310)
+Received command: 3-1
+Logging: Todo completed.
+Waiting for connection...
+
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py" python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py"
+
+** Todo List Menu **
+1. Add todo        
+2. Print todos     
+3. Complete todo   
+10. Exit
+
+Enter your choice: 1
+Enter todo title: Teste
+Enter todo description: Desc1
+Connected to server.
+Connection close.   
+Todo added.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+
+Enter your choice: 3
+Complete todo
+Connected to server.
+Connection close.
+Todo completed.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+
+Enter your choice: 10
+
+PS C:\Temp\CACADAMY> & C:\Users\s20210154\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py" python.exe "c:/Temp/CACADAMY/lab2-alunos/Q1 - client_todo.py"
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+
+Enter your choice: 1
+Enter todo title: Teste2
+Enter todo description: wewew
+
+Connected to server.
+Connection close.
+Todo added.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+Enter your choice: 3
+
+Complete todo
+Enter index: 1
+Connected to server.
+Connection close.
+Todo completed.
+
+** Todo List Menu **
+1. Add todo
+2. Print todos
+3. Complete todo
+10. Exit
+Enter your choice: 10
+
+PS C:\Temp\CACADAMY> 
